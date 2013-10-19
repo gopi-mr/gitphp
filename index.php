@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Java script Test using git</title>
-	<link rel="stylesheet" href="files/style.css"/>
-	<script  src="files/jquery.js"></script>
-	<script src="files/myscript.js" ></script>
+	<title>Php Test In GITHUB</title>
 </head>
 
 <body>
 
-<h1>Welcome to Github Directory</h1>
+<h1>This is My Website</h1>
 <div id="header">   <!--Header Div-->
 	<div id="logodiv">
 		<a href="index.php" >
@@ -48,9 +45,7 @@
 </div>
 
 
-<div id="buttondiv" >   <!--Button Div-->	
-		<b>Show/hide Menu</b>
-</div>
+
 
 </body>
 
